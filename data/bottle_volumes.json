@@ -1,0 +1,34 @@
+{
+    "1": {
+        "total_volume_ml": 1000,
+        "remaining_volume_ml": 726
+    },
+    "2": {
+        "total_volume_ml": 1000,
+        "remaining_volume_ml": 490
+    },
+    "3": {
+        "total_volume_ml": 750,
+        "remaining_volume_ml": 702.4705882352941
+    },
+    "4": {
+        "total_volume_ml": 1000,
+        "remaining_volume_ml": 1000
+    },
+    "5": {
+        "total_volume_ml": 1000,
+        "remaining_volume_ml": 1000
+    },
+    "6": {
+        "total_volume_ml": 1000,
+        "remaining_volume_ml": 1000
+    },
+    "7": {
+        "total_volume_ml": 1000,
+        "remaining_volume_ml": 1000
+    },
+    "8": {
+        "total_volume_ml": 1000,
+        "remaining_volume_ml": 1000
+    }
+}

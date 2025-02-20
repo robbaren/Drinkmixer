@@ -1,0 +1,14 @@
+[
+    {
+        "drink_id": 1,
+        "drink_name": "Moscow Mule",
+        "ingredients": {"Vodka": 50, "Lime Juice": 20, "Soda Water": 100},
+        "notes": "Add ginger beer manually"
+    },
+    {
+        "drink_id": 2,
+        "drink_name": "Margarita",
+        "ingredients": {"Tequila": 50, "Triple Sec": 25, "Lime Juice": 20},
+        "notes": "Salt rim manually"
+    }
+]
