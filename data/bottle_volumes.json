@@ -1,27 +1,27 @@
 {
     "1": {
         "total_volume_ml": 1000,
-        "remaining_volume_ml": 726
+        "remaining_volume_ml": 509
     },
     "2": {
         "total_volume_ml": 1000,
-        "remaining_volume_ml": 490
+        "remaining_volume_ml": 421.4
     },
     "3": {
         "total_volume_ml": 750,
-        "remaining_volume_ml": 702.4705882352941
+        "remaining_volume_ml": 481
     },
     "4": {
         "total_volume_ml": 1000,
-        "remaining_volume_ml": 1000
+        "remaining_volume_ml": 780
     },
     "5": {
         "total_volume_ml": 1000,
-        "remaining_volume_ml": 1000
+        "remaining_volume_ml": 885
     },
     "6": {
         "total_volume_ml": 1000,
-        "remaining_volume_ml": 1000
+        "remaining_volume_ml": 910
     },
     "7": {
         "total_volume_ml": 1000,
@@ -29,6 +29,6 @@
     },
     "8": {
         "total_volume_ml": 1000,
-        "remaining_volume_ml": 1000
+        "remaining_volume_ml": 718
     }
 }
